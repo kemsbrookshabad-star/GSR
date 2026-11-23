@@ -1,0 +1,6 @@
+{
+  "appId": "com.srinidhi.enterprises",
+  "appName": "Srinidhi Enterprises",
+  "webDir": "www",
+  "server": { "androidScheme": "https" }
+}
